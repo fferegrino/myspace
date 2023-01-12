@@ -3,3 +3,6 @@ def hello():
 
 def hola():
 	return "mundo"
+
+def ciao():
+	return "mondo"
